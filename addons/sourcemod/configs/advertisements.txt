@@ -1,0 +1,9 @@
+{orange}[Server]{default} Welcome to {orange}Bunny Hop! {default}The server is hosted by {lightblue}Final Respawn.
+{lightred}[Info]{default} To learn more about the timer type {lightred}!timer.
+{orange}[Server]{default} Like the server? {orange}Add it to your favourites!
+{lightblue}[Community]{default} Check out our website {lightblue}http://finalrespawn.com {default}or type {lightblue}!website {default}to open a link in game.
+{lightblue}[Community]{default} Our Teamspeak is {lightblue}ts.finalrespawn.com. {default}Use better quality channels, and talk to the more dedicated members of the server.
+{orange}[Server]{default} If you like the server consider donating. It is as easy as {orange}!donate {default}and contributes towards the server.
+{lightblue}[Community]{default} Join our group to show your support and be eligible for giveaways! {lightblue}http://steamcommunity.com/groups/finalrespawn
+{orange}[Server]{default} We have other servers! Search {orange}finalrespawn {default}in the server browser then click refresh all, {orange}or look at our group!
+{lightblue}[Community]{default} Go to {lightblue}http://finalrespawn.com {default}and register to meet new people, apply for admin and more!
